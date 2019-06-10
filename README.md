@@ -17,6 +17,13 @@ Here's what i strive for:
 - Good use of current HTML, SCSS, and TypeScript & performance best practices.
 - Extensible code.
 
+## Q&A
+
+
+> Do you have any question?
+
+Just create a new issue in this repo and we will respond and get back to you quickly.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
