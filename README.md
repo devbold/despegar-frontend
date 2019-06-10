@@ -8,6 +8,15 @@ I've use Angular to implement the following mock-up. This is an app for restaura
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
+## What I Care About
+
+_Technologies_
+
+Here's what i strive for:
+
+- Good use of current HTML, SCSS, and TypeScript & performance best practices.
+- Extensible code.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
