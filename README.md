@@ -1,4 +1,10 @@
-# DespegarFrontend
+# Despegar Front-end Developer Coding Test
+
+Be sure to read all of this document carefully, and follow the guidelines within.
+
+## Context
+
+I've use Angular to implement the following mock-up. This is an app for restaurant data to fill in the details and functionality as described below. You are only required to complete the steps.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
