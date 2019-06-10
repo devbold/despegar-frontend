@@ -19,7 +19,6 @@ Here's what i strive for:
 
 ## Q&A
 
-
 > Do you have any question?
 
 Just create a new issue in this repo and we will respond and get back to you quickly.
